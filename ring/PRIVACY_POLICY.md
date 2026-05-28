@@ -81,7 +81,7 @@ We may update this Privacy Policy from time to time. The latest version will be 
 
 If you have questions about this Privacy Policy, please contact:
 
-- GitHub Issues: `https://github.com/<your-account>/<your-repo>/issues`
+- PrivatePolicy: `https://github.com/pegasuslw/PrivacyPolicy/blob/main/ring/PRIVACY_POLICY.md`
 - Email: `<pegasus.lw@gmail.com>`
 
 
